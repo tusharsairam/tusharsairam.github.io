@@ -1,0 +1,29 @@
+name: Deploy to Codeberg Pages
+
+on:
+  push:
+    branches:
+      - v5
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build Quartz
+        run: |
+          npm ci
+          npx quartz build
+
+      - uses: https://codeberg.org/git-pages/action@v2
+        with:
+          site: 'https://${{ forge.repository_owner }}.codeberg.page/garden_hypercube/'
+          token: ${{ forge.token }}
+          source: public/
