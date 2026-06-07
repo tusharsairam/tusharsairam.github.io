@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: hypercube.github.io
+  baseUrl: tushar_sairam.codeberg.page
   ignorePatterns:
     - privates
     - templates
