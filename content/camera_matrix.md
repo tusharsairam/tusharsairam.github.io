@@ -21,8 +21,6 @@ IC =
 	0 & 0 & 1
 \end{bmatrix}
 $$
->[!Danger] Intrinsic Matrix
->In reality, the [[Intrinsic calibration matrix|intrinsic matrix will be more complicated than this]]!
 
 - The *projection matrix* 
 $$
