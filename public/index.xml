@@ -6,65 +6,65 @@
       <description>Last 10 notes on The Hypercube</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>software</title>
+    <link>https://tusharsairam.github.io/tags/software</link>
+    <guid>https://tusharsairam.github.io/tags/software</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 09 Jun 2026 20:45:58 GMT</pubDate>
+  </item><item>
+    <title>software/algorithms</title>
+    <link>https://tusharsairam.github.io/tags/software/algorithms</link>
+    <guid>https://tusharsairam.github.io/tags/software/algorithms</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 09 Jun 2026 20:45:58 GMT</pubDate>
+  </item><item>
     <title>q</title>
     <link>https://tusharsairam.github.io/tags/q</link>
     <guid>https://tusharsairam.github.io/tags/q</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 09 Jun 2026 19:58:16 GMT</pubDate>
+    <pubDate>Tue, 09 Jun 2026 20:45:58 GMT</pubDate>
   </item><item>
     <title>Tag Index</title>
     <link>https://tusharsairam.github.io/tags/</link>
     <guid>https://tusharsairam.github.io/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 09 Jun 2026 19:58:16 GMT</pubDate>
+    <pubDate>Tue, 09 Jun 2026 20:45:58 GMT</pubDate>
+  </item><item>
+    <title>Graph Neural Networks (GNNs)</title>
+    <link>https://tusharsairam.github.io/graph-neural-networks-(gnns)</link>
+    <guid>https://tusharsairam.github.io/graph-neural-networks-(gnns)</guid>
+    <description><![CDATA[ distill.pub/2021/gnn-intro/ arxiv.org/html/2410.17409v1 &lt;- Research paper on GNNs for modelling human interactions in crowds Graphs - Entities and relationships Stanford CS224W notes in Graph ML Representation learning can be used to auto-learn features. ]]></description>
+    <pubDate>Tue, 09 Jun 2026 20:38:38 GMT</pubDate>
+  </item><item>
+    <title>Obtain TFs from Simulink model</title>
+    <link>https://tusharsairam.github.io/obtaining-tfs-of-simulink-models-in-matlab</link>
+    <guid>https://tusharsairam.github.io/obtaining-tfs-of-simulink-models-in-matlab</guid>
+    <description><![CDATA[ sys = linearize(mdl) # Simulink model name without the &quot;.slx&quot; extension name [num, den] = tfdata(sys, &#039;v&#039;) G = tf(num, den) G is your transfer function tfdata will only work on LTI systems. ]]></description>
+    <pubDate>Tue, 09 Jun 2026 20:21:07 GMT</pubDate>
+  </item><item>
+    <title>Otautahi-Oxford Model</title>
+    <link>https://tusharsairam.github.io/otautahi-oxford-model-notes</link>
+    <guid>https://tusharsairam.github.io/otautahi-oxford-model-notes</guid>
+    <description><![CDATA[ Source: arxiv.org/abs/2502.16741 ISOs (Interstellar Objects) give insights into galactic events and processes far beyond our solar system. ]]></description>
+    <pubDate>Tue, 09 Jun 2026 20:17:41 GMT</pubDate>
+  </item><item>
+    <title>Code Readability</title>
+    <link>https://tusharsairam.github.io/philosophy-of-code-readability</link>
+    <guid>https://tusharsairam.github.io/philosophy-of-code-readability</guid>
+    <description><![CDATA[ Programming is a large part of both my job and my personal projects. I put a lot of emphasis on code readability because I stare at code frequently. ]]></description>
+    <pubDate>Tue, 09 Jun 2026 20:16:34 GMT</pubDate>
+  </item><item>
+    <title>Post-Phenomenology</title>
+    <link>https://tusharsairam.github.io/post-phenomenology</link>
+    <guid>https://tusharsairam.github.io/post-phenomenology</guid>
+    <description><![CDATA[ Post-phenomenology is the study of how technology plays a central role in interacting with the world Technology and tools actively shape human perception of the world and action People to follow: Don Ihde, Peter Paul Verbeek Examples of human-technology interactions (Engineering) Autonomous vehicles... ]]></description>
+    <pubDate>Tue, 09 Jun 2026 20:15:57 GMT</pubDate>
   </item><item>
     <title>Quantum Consciousness</title>
     <link>https://tusharsairam.github.io/quantum-consciousness</link>
     <guid>https://tusharsairam.github.io/quantum-consciousness</guid>
     <description><![CDATA[ The human brain is shown to exhibit quantum effects. The human body’s cell cytoskeletons consist of microtubules made out of tubulin. ]]></description>
     <pubDate>Tue, 09 Jun 2026 19:55:31 GMT</pubDate>
-  </item><item>
-    <title>Quines (Coding)</title>
-    <link>https://tusharsairam.github.io/quines---self-replicating-programs</link>
-    <guid>https://tusharsairam.github.io/quines---self-replicating-programs</guid>
-    <description><![CDATA[  Quine A quine is a program that self-replicates/prints its own source code How are they relevant? Quines are a consequence of the fixed-point theorem, which itself comes from Cantor’s ubiquitous diagonal argument Quines are related to Gödel’s incompleteness theorem As long a programming language is... ]]></description>
-    <pubDate>Tue, 09 Jun 2026 19:49:41 GMT</pubDate>
-  </item><item>
-    <title>RPi 4 Boot Sequence</title>
-    <link>https://tusharsairam.github.io/rpi4-boot-sequence</link>
-    <guid>https://tusharsairam.github.io/rpi4-boot-sequence</guid>
-    <description><![CDATA[  [GPU] GPU wakes up. ROM bootloader baked into it —&gt; bootcode.bin [GPU] bootcode.bin —&gt; start.elf (full GPU firmware). ]]></description>
-    <pubDate>Tue, 09 Jun 2026 19:49:41 GMT</pubDate>
-  </item><item>
-    <title>Glial Cell Reprogramming</title>
-    <link>https://tusharsairam.github.io/reprogramming-of-glial-cells</link>
-    <guid>https://tusharsairam.github.io/reprogramming-of-glial-cells</guid>
-    <description><![CDATA[ Glial cells reprogrammed into neurons to repair brain damage * Neuron reprogramming is hard * Reprogramming done using a single transcription factor * Chemicals involved: Neurogenin2 and YingYang1 * Neurogenin2 (Ngn2) is the transcription factor → this is reprogrammed post translation * YingYang1 (Y... ]]></description>
-    <pubDate>Tue, 09 Jun 2026 19:49:41 GMT</pubDate>
-  </item><item>
-    <title>Reticular Activating System</title>
-    <link>https://tusharsairam.github.io/reticular-activating-system---sleep-wake-control-and-consciousness</link>
-    <guid>https://tusharsairam.github.io/reticular-activating-system---sleep-wake-control-and-consciousness</guid>
-    <description><![CDATA[ Sleep-wake transitions, wakefulness, and motor functions are controlled by a part of the midbrain called the reticular activating system (RAS) When we are wakeful and conscious, the neurons in the RAS engage in low-voltage burst firing (several neurons fire off at low voltages continuously). ]]></description>
-    <pubDate>Tue, 09 Jun 2026 19:49:41 GMT</pubDate>
-  </item><item>
-    <title>Syncthing setup on Windows</title>
-    <link>https://tusharsairam.github.io/setting-up-syncthing-in-windows</link>
-    <guid>https://tusharsairam.github.io/setting-up-syncthing-in-windows</guid>
-    <description><![CDATA[  Download Syncthing from here. ]]></description>
-    <pubDate>Tue, 09 Jun 2026 19:49:41 GMT</pubDate>
-  </item><item>
-    <title>Subjective Threshold</title>
-    <link>https://tusharsairam.github.io/subjective-threshold</link>
-    <guid>https://tusharsairam.github.io/subjective-threshold</guid>
-    <description><![CDATA[ Subjective Threshold in Subliminal Perception is the minimum threshold at which stimuli are consciously perceived. ]]></description>
-    <pubDate>Tue, 09 Jun 2026 19:49:41 GMT</pubDate>
-  </item><item>
-    <title>BIOS Interrupt Calls</title>
-    <link>https://tusharsairam.github.io/bios-interrupt-calls</link>
-    <guid>https://tusharsairam.github.io/bios-interrupt-calls</guid>
-    <description><![CDATA[ BIOS interrupt calls are software interrupts that an OS or a bootloader uses to request specific services/processes from the BIOS. ]]></description>
-    <pubDate>Tue, 09 Jun 2026 19:38:21 GMT</pubDate>
   </item>
     </channel>
   </rss>

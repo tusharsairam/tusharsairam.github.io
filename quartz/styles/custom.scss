@@ -4,3 +4,14 @@
 em {
     color: #FFFFFF
 }
+
+.explorer-content {
+    ul {
+      li {
+        a {
+          font-weight: 300;        // adjust thickness: 300 (thin) to 700 (bold)
+          line-height: 1.8;        // adjust spacing between entries
+        }
+      }
+    }
+  }
