@@ -1,6 +1,5 @@
 ---
 title: Quantum Consciousness
-Date: 2024-06-26 16:20:07
 ---
 The human brain is shown to exhibit quantum effects. The human body's cell cytoskeletons consist of microtubules made out of tubulin. Tryptophan is an important amino acid that is also a major constituent of tubulin
 
