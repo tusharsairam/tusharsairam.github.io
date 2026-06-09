@@ -2,33 +2,69 @@
 <rss version="2.0">
     <channel>
       <title>The Hypercube</title>
-      <link>https://tushar_sairam.codeberg.page/garden_hypercube</link>
+      <link>https://tusharsairam.github.io</link>
       <description>Last 10 notes on The Hypercube</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Tag Index</title>
-    <link>https://tushar_sairam.codeberg.page/garden_hypercube/tags/</link>
-    <guid>https://tushar_sairam.codeberg.page/garden_hypercube/tags/</guid>
+    <title>q</title>
+    <link>https://tusharsairam.github.io/tags/q</link>
+    <guid>https://tusharsairam.github.io/tags/q</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 09 Jun 2026 17:26:36 GMT</pubDate>
+    <pubDate>Tue, 09 Jun 2026 19:58:16 GMT</pubDate>
   </item><item>
-    <title>Camera Matrix</title>
-    <link>https://tushar_sairam.codeberg.page/garden_hypercube/camera_matrix</link>
-    <guid>https://tushar_sairam.codeberg.page/garden_hypercube/camera_matrix</guid>
-    <description><![CDATA[  The image point I is the set of coordinates of the object as projected on the camera plane I = \lambda \begin{bmatrix} x \\ y \\ 1 \end{bmatrix} The camera’s Intrinsic calibration matrix IC = \begin{bmatrix} f &amp; 0 &amp; 0 \\ 0 &amp; f &amp; 0 \\ 0 &amp; 0 &amp; 1 \end{bmatrix} The projection ma... ]]></description>
-    <pubDate>Sun, 07 Jun 2026 18:16:15 GMT</pubDate>
+    <title>Tag Index</title>
+    <link>https://tusharsairam.github.io/tags/</link>
+    <guid>https://tusharsairam.github.io/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 09 Jun 2026 19:58:16 GMT</pubDate>
   </item><item>
-    <title>Audio Fingerprinting</title>
-    <link>https://tushar_sairam.codeberg.page/garden_hypercube/audio_fingerprinting</link>
-    <guid>https://tushar_sairam.codeberg.page/garden_hypercube/audio_fingerprinting</guid>
-    <description><![CDATA[ Audio fingerprinting is the method used by Shazam and YouTube to identify music from sound. ]]></description>
-    <pubDate>Sun, 07 Jun 2026 18:00:46 GMT</pubDate>
+    <title>Quantum Consciousness</title>
+    <link>https://tusharsairam.github.io/quantum-consciousness</link>
+    <guid>https://tusharsairam.github.io/quantum-consciousness</guid>
+    <description><![CDATA[ The human brain is shown to exhibit quantum effects. The human body’s cell cytoskeletons consist of microtubules made out of tubulin. ]]></description>
+    <pubDate>Tue, 09 Jun 2026 19:55:31 GMT</pubDate>
   </item><item>
-    <title>Welcome to Quartz</title>
-    <link>https://tushar_sairam.codeberg.page/garden_hypercube/</link>
-    <guid>https://tushar_sairam.codeberg.page/garden_hypercube/</guid>
-    <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. ]]></description>
-    <pubDate>Sun, 07 Jun 2026 18:00:46 GMT</pubDate>
+    <title>Quines (Coding)</title>
+    <link>https://tusharsairam.github.io/quines---self-replicating-programs</link>
+    <guid>https://tusharsairam.github.io/quines---self-replicating-programs</guid>
+    <description><![CDATA[  Quine A quine is a program that self-replicates/prints its own source code How are they relevant? Quines are a consequence of the fixed-point theorem, which itself comes from Cantor’s ubiquitous diagonal argument Quines are related to Gödel’s incompleteness theorem As long a programming language is... ]]></description>
+    <pubDate>Tue, 09 Jun 2026 19:49:41 GMT</pubDate>
+  </item><item>
+    <title>RPi 4 Boot Sequence</title>
+    <link>https://tusharsairam.github.io/rpi4-boot-sequence</link>
+    <guid>https://tusharsairam.github.io/rpi4-boot-sequence</guid>
+    <description><![CDATA[  [GPU] GPU wakes up. ROM bootloader baked into it —&gt; bootcode.bin [GPU] bootcode.bin —&gt; start.elf (full GPU firmware). ]]></description>
+    <pubDate>Tue, 09 Jun 2026 19:49:41 GMT</pubDate>
+  </item><item>
+    <title>Glial Cell Reprogramming</title>
+    <link>https://tusharsairam.github.io/reprogramming-of-glial-cells</link>
+    <guid>https://tusharsairam.github.io/reprogramming-of-glial-cells</guid>
+    <description><![CDATA[ Glial cells reprogrammed into neurons to repair brain damage * Neuron reprogramming is hard * Reprogramming done using a single transcription factor * Chemicals involved: Neurogenin2 and YingYang1 * Neurogenin2 (Ngn2) is the transcription factor → this is reprogrammed post translation * YingYang1 (Y... ]]></description>
+    <pubDate>Tue, 09 Jun 2026 19:49:41 GMT</pubDate>
+  </item><item>
+    <title>Reticular Activating System</title>
+    <link>https://tusharsairam.github.io/reticular-activating-system---sleep-wake-control-and-consciousness</link>
+    <guid>https://tusharsairam.github.io/reticular-activating-system---sleep-wake-control-and-consciousness</guid>
+    <description><![CDATA[ Sleep-wake transitions, wakefulness, and motor functions are controlled by a part of the midbrain called the reticular activating system (RAS) When we are wakeful and conscious, the neurons in the RAS engage in low-voltage burst firing (several neurons fire off at low voltages continuously). ]]></description>
+    <pubDate>Tue, 09 Jun 2026 19:49:41 GMT</pubDate>
+  </item><item>
+    <title>Syncthing setup on Windows</title>
+    <link>https://tusharsairam.github.io/setting-up-syncthing-in-windows</link>
+    <guid>https://tusharsairam.github.io/setting-up-syncthing-in-windows</guid>
+    <description><![CDATA[  Download Syncthing from here. ]]></description>
+    <pubDate>Tue, 09 Jun 2026 19:49:41 GMT</pubDate>
+  </item><item>
+    <title>Subjective Threshold</title>
+    <link>https://tusharsairam.github.io/subjective-threshold</link>
+    <guid>https://tusharsairam.github.io/subjective-threshold</guid>
+    <description><![CDATA[ Subjective Threshold in Subliminal Perception is the minimum threshold at which stimuli are consciously perceived. ]]></description>
+    <pubDate>Tue, 09 Jun 2026 19:49:41 GMT</pubDate>
+  </item><item>
+    <title>BIOS Interrupt Calls</title>
+    <link>https://tusharsairam.github.io/bios-interrupt-calls</link>
+    <guid>https://tusharsairam.github.io/bios-interrupt-calls</guid>
+    <description><![CDATA[ BIOS interrupt calls are software interrupts that an OS or a bootloader uses to request specific services/processes from the BIOS. ]]></description>
+    <pubDate>Tue, 09 Jun 2026 19:38:21 GMT</pubDate>
   </item>
     </channel>
   </rss>
