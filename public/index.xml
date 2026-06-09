@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
       <title>The Hypercube</title>
-      <link>https://tushar_sairam.codeberg.page/garden_hypercube/</link>
+      <link>https://tushar_sairam.codeberg.page/garden_hypercube</link>
       <description>Last 10 notes on The Hypercube</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
@@ -10,7 +10,7 @@
     <link>https://tushar_sairam.codeberg.page/garden_hypercube/tags/</link>
     <guid>https://tushar_sairam.codeberg.page/garden_hypercube/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 09 Jun 2026 16:57:44 GMT</pubDate>
+    <pubDate>Tue, 09 Jun 2026 17:26:36 GMT</pubDate>
   </item><item>
     <title>Camera Matrix</title>
     <link>https://tushar_sairam.codeberg.page/garden_hypercube/camera_matrix</link>

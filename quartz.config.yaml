@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: tushar_sairam.codeberg.page/garden_hypercube/
+  baseUrl: tushar_sairam.codeberg.page/garden_hypercube
   ignorePatterns:
     - privates
     - templates
