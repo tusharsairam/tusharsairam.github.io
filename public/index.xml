@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>The Hypercube</title>
+      <link>https://tushar_sairam.codeberg.page/garden_hypercube/</link>
+      <description>Last 10 notes on The Hypercube</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Tag Index</title>
+    <link>https://tushar_sairam.codeberg.page/garden_hypercube/tags/</link>
+    <guid>https://tushar_sairam.codeberg.page/garden_hypercube/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 09 Jun 2026 16:57:44 GMT</pubDate>
+  </item><item>
+    <title>Camera Matrix</title>
+    <link>https://tushar_sairam.codeberg.page/garden_hypercube/camera_matrix</link>
+    <guid>https://tushar_sairam.codeberg.page/garden_hypercube/camera_matrix</guid>
+    <description><![CDATA[  The image point I is the set of coordinates of the object as projected on the camera plane I = \lambda \begin{bmatrix} x \\ y \\ 1 \end{bmatrix} The camera’s Intrinsic calibration matrix IC = \begin{bmatrix} f &amp; 0 &amp; 0 \\ 0 &amp; f &amp; 0 \\ 0 &amp; 0 &amp; 1 \end{bmatrix} The projection ma... ]]></description>
+    <pubDate>Sun, 07 Jun 2026 18:16:15 GMT</pubDate>
+  </item><item>
+    <title>Audio Fingerprinting</title>
+    <link>https://tushar_sairam.codeberg.page/garden_hypercube/audio_fingerprinting</link>
+    <guid>https://tushar_sairam.codeberg.page/garden_hypercube/audio_fingerprinting</guid>
+    <description><![CDATA[ Audio fingerprinting is the method used by Shazam and YouTube to identify music from sound. ]]></description>
+    <pubDate>Sun, 07 Jun 2026 18:00:46 GMT</pubDate>
+  </item><item>
+    <title>Welcome to Quartz</title>
+    <link>https://tushar_sairam.codeberg.page/garden_hypercube/</link>
+    <guid>https://tushar_sairam.codeberg.page/garden_hypercube/</guid>
+    <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. ]]></description>
+    <pubDate>Sun, 07 Jun 2026 18:00:46 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
