@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: baseUrl: tusharsairam.github.io
+  baseUrl: tusharsairam.github.io
   ignorePatterns:
     - privates
     - templates
