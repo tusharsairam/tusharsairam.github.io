@@ -1,3 +1,7 @@
+---
+title: Syncthing setup on Windows
+---
+
 - [Download Syncthing](https://github.com/Bill-Stewart/SyncthingWindowsSetup/) from here. During download, I opted for creating a Windows Firewall rule for security purposes
 - Syncthing should be installed in Android as well
 - In the Syncthing configuration page, set the vault folder you want to sync under **Folders**
