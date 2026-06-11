@@ -10,55 +10,55 @@
     <link>https://tusharsairam.github.io/tags/software</link>
     <guid>https://tusharsairam.github.io/tags/software</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 09 Jun 2026 20:45:58 GMT</pubDate>
+    <pubDate>Thu, 11 Jun 2026 15:55:57 GMT</pubDate>
   </item><item>
     <title>software/algorithms</title>
     <link>https://tusharsairam.github.io/tags/software/algorithms</link>
     <guid>https://tusharsairam.github.io/tags/software/algorithms</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 09 Jun 2026 20:45:58 GMT</pubDate>
+    <pubDate>Thu, 11 Jun 2026 15:55:57 GMT</pubDate>
   </item><item>
     <title>q</title>
     <link>https://tusharsairam.github.io/tags/q</link>
     <guid>https://tusharsairam.github.io/tags/q</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 09 Jun 2026 20:45:58 GMT</pubDate>
+    <pubDate>Thu, 11 Jun 2026 15:55:57 GMT</pubDate>
   </item><item>
     <title>Tag Index</title>
     <link>https://tusharsairam.github.io/tags/</link>
     <guid>https://tusharsairam.github.io/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 09 Jun 2026 20:45:58 GMT</pubDate>
+    <pubDate>Thu, 11 Jun 2026 15:55:57 GMT</pubDate>
   </item><item>
     <title>Graph Neural Networks (GNNs)</title>
     <link>https://tusharsairam.github.io/graph-neural-networks-(gnns)</link>
     <guid>https://tusharsairam.github.io/graph-neural-networks-(gnns)</guid>
     <description><![CDATA[ distill.pub/2021/gnn-intro/ arxiv.org/html/2410.17409v1 &lt;- Research paper on GNNs for modelling human interactions in crowds Graphs - Entities and relationships Stanford CS224W notes in Graph ML Representation learning can be used to auto-learn features. ]]></description>
-    <pubDate>Tue, 09 Jun 2026 20:38:38 GMT</pubDate>
+    <pubDate>Tue, 09 Jun 2026 20:46:05 GMT</pubDate>
   </item><item>
     <title>Obtain TFs from Simulink model</title>
     <link>https://tusharsairam.github.io/obtaining-tfs-of-simulink-models-in-matlab</link>
     <guid>https://tusharsairam.github.io/obtaining-tfs-of-simulink-models-in-matlab</guid>
     <description><![CDATA[ sys = linearize(mdl) # Simulink model name without the &quot;.slx&quot; extension name [num, den] = tfdata(sys, &#039;v&#039;) G = tf(num, den) G is your transfer function tfdata will only work on LTI systems. ]]></description>
-    <pubDate>Tue, 09 Jun 2026 20:21:07 GMT</pubDate>
+    <pubDate>Tue, 09 Jun 2026 20:46:05 GMT</pubDate>
   </item><item>
     <title>Otautahi-Oxford Model</title>
     <link>https://tusharsairam.github.io/otautahi-oxford-model-notes</link>
     <guid>https://tusharsairam.github.io/otautahi-oxford-model-notes</guid>
     <description><![CDATA[ Source: arxiv.org/abs/2502.16741 ISOs (Interstellar Objects) give insights into galactic events and processes far beyond our solar system. ]]></description>
-    <pubDate>Tue, 09 Jun 2026 20:17:41 GMT</pubDate>
+    <pubDate>Tue, 09 Jun 2026 20:46:05 GMT</pubDate>
   </item><item>
     <title>Code Readability</title>
     <link>https://tusharsairam.github.io/philosophy-of-code-readability</link>
     <guid>https://tusharsairam.github.io/philosophy-of-code-readability</guid>
     <description><![CDATA[ Programming is a large part of both my job and my personal projects. I put a lot of emphasis on code readability because I stare at code frequently. ]]></description>
-    <pubDate>Tue, 09 Jun 2026 20:16:34 GMT</pubDate>
+    <pubDate>Tue, 09 Jun 2026 20:46:05 GMT</pubDate>
   </item><item>
     <title>Post-Phenomenology</title>
     <link>https://tusharsairam.github.io/post-phenomenology</link>
     <guid>https://tusharsairam.github.io/post-phenomenology</guid>
     <description><![CDATA[ Post-phenomenology is the study of how technology plays a central role in interacting with the world Technology and tools actively shape human perception of the world and action People to follow: Don Ihde, Peter Paul Verbeek Examples of human-technology interactions (Engineering) Autonomous vehicles... ]]></description>
-    <pubDate>Tue, 09 Jun 2026 20:15:57 GMT</pubDate>
+    <pubDate>Tue, 09 Jun 2026 20:46:05 GMT</pubDate>
   </item><item>
     <title>Quantum Consciousness</title>
     <link>https://tusharsairam.github.io/quantum-consciousness</link>
