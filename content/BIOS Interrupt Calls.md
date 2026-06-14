@@ -1,7 +1,6 @@
 ---
 title: BIOS Interrupt Calls
 ---
-
 BIOS interrupt calls are software interrupts that an OS or a bootloader uses to request specific services/processes from the BIOS. A quick example of that in x86 Real Mode architecture is `INT 19h` which sends an interrupt to the BIOS telling it to reboot the computer
 
 Here's a breakdown of the interrupt instruction:

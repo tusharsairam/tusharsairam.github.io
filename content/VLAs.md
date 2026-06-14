@@ -15,8 +15,6 @@ int main()
 }
 ```
 
-I even used VLAs in my star tracker algorithm, specially in the feature matching code where the K-nearest neighbours of a centroid are calculated. I suppose I lucked out because the VLA was mean to be pretty small
-
 * VLAs are inefficient due to extra overhead because the compiler has to decide the size of the array and allocate stack memory Unless standard arrays where the size is known during compile-time
 * I learnt that VLAs follow automatic storage duration - It means that the array is purely local-scope. For example, if a VLA is declared inside a for loop, it cannot be accessed outside the loop
 

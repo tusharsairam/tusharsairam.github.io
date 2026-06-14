@@ -1,7 +1,6 @@
 ---
 title: Audio Fingerprinting
 ---
-
 **Audio fingerprinting** is the method used by *Shazam* and *YouTube* to identify music from sound. AI methods are also being heavily used for audio fingerprinting and search these days
 
 1. Compression using *Huffman Coding*. Lossless compression isn't necessary
